@@ -12,6 +12,8 @@ type Config struct {
 	AuthURI      string   `json:"authURI"`
 	TokenURI     string   `json:"tokenURI"`
 	RedirectURI  string   `json:"redirectURI"`
+	UserInfoURI  string   `json:"userInfoURI"`
+	TokenInfoURI string   `json:"tokenInfoURI"`
 	Scopes       []string `json:"scopes"`
 }
 

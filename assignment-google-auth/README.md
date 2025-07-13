@@ -7,5 +7,4 @@ go run . -config local.config.json
 ```
 
 ### TODO
-- Complete the Auth Code Request
 - Initialize parent directory as go module and run each assignment as a separate app

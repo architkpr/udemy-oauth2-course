@@ -5,5 +5,7 @@
     "authURI": "https://accounts.example.com/o/oauth2/auth",
     "tokenURI": "https://accounts.example.com/o/oauth2/token",
     "redirectURI": "https://127.0.0.1:8080/callback",
+    "userInfoURI": "https://accounts.example.com/v1/userinfo",
+    "tokenInfoURI": "https://accounts.example.com/tokeninfo",
     "scopes": ["openid", "email"]
 }
